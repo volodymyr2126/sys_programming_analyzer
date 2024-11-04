@@ -1,2 +1,5 @@
 .gitignore
 .idea/
+analysis/__pycache__/
+utils/__pycache__/
+venv
